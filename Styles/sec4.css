@@ -1,7 +1,7 @@
 .sec4{
-    margin: 137px auto 0 auto;
+    margin: 134px auto 0 auto;
     text-align: center;
-    height: 697px;
+    height: 700px;
     width: 1140px;
 
     background-color: white;
@@ -16,8 +16,8 @@
     font-weight: bold;
     font-size: 50px;
 }
-.sec4 button{
-    height: 48px;
+.sec4 btn1{
+    height: 70px;
     width: 195px;
 }
 .sec4 img{

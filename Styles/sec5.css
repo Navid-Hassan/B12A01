@@ -20,6 +20,7 @@
     border: opx;
     padding-left: 10px;
     padding-top: 10px;
+    max-width: 497px;
 }
 .sec5 button{
     height: 62px;
@@ -31,4 +32,18 @@
     display: flex;
     height: 632px;
     width: 1140px;
+}
+.sec5 label{
+    font-weight: 600;
+    font-size: 18px;
+}
+input::placeholder{ 
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+form input,form textarea{
+    box-sizing: border-box;
 }
