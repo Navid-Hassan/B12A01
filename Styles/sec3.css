@@ -1,0 +1,28 @@
+.sec3 .img{
+    display: flex;
+}
+.sec3again{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.section3{
+    height: 243px;
+    width: 367px;
+    background-color: white;
+    padding-left: 24px;
+    padding-top: 24px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px;
+}
+.sec3{
+    text-align: center;
+}
+.sec3 .revdetail{
+    display: flex;
+    gap: 4px;
+}
+.revdetail{
+    text-align: left;
+}
