@@ -43,9 +43,9 @@
 /* Banner */
 .banner {
     background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
-
+    background-size: cover;
     height: 900px;
-    max-width: 2000px;
+    max-width: 5000px;
 }
 
 .nav1 h3 {
