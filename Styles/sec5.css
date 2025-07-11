@@ -12,9 +12,14 @@
     border-radius: 10px;
     margin-bottom: 19px;
     padding-left:10px ;
+    border: 0px;
 }
 .sec5 textarea{
     height: 167px;
+    border-radius: 10px;
+    border: opx;
+    padding-left: 10px;
+    padding-top: 10px;
 }
 .sec5 button{
     height: 62px;

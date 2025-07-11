@@ -1,0 +1,31 @@
+.footer ul{
+    list-style: none;
+}
+.foot{
+    margin: 104 auto 0 auto;
+    text-align: center;
+    height: 428px;
+    background-color: white;
+    padding-bottom: 0;
+}
+ul{
+    display: flex;
+    gap: 29px;
+    justify-content: center;
+    color: #8987A1;
+
+ 
+}
+.footfoot{
+    margin: 200px auto 103px auto;
+    height: 221px;
+    width: 531px;
+}
+
+.footfoot p{
+    color: #8987A1;
+}
+.foot h1{
+    color: #4E47FF;
+    font-size: 100px;
+}
