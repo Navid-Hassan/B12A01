@@ -1,0 +1,29 @@
+.sec5 label,input{
+    display: block;
+    gap: 10px;
+}
+.sec5 h1{
+    font-weight: bold;
+    font-size: 97px;
+}
+.sec5 input{
+    height: 70px;
+    width: 497px;
+    border-radius: 10px;
+    margin-bottom: 19px;
+    padding-left:10px ;
+}
+.sec5 textarea{
+    height: 167px;
+}
+.sec5 button{
+    height: 62px;
+    width: 505px;
+}
+
+.sec5{
+    margin: 93px auto 0 auto;
+    display: flex;
+    height: 632px;
+    width: 1140px;
+}
